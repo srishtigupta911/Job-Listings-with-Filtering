@@ -27,13 +27,6 @@ This is a solution to the [Job listings with filtering challenge on Frontend Men
 ![Mobile Screenshot](./screenshot-mobile.png)
 
 
-### What I learned
 
-- Adding CORS to Next.js v13 API endpoints
-- Styled-Components
-- Redux Toolkit
-- Redux Toolkit Thunk
-- Zod
-- e2e testing using Cypress
 
 
